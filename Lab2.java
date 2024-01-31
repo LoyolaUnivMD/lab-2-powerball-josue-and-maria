@@ -1,10 +1,10 @@
-// Programmers:  [your names here]
+// Programmers:  Josue and Maria
 // Course:  CS 212
-// Due Date:
-// Lab Assignment:
-// Problem Statement:
-// Data In:
-// Data Out:
+// Due Date: 2/4/24
+// Lab Assignment: 2
+// Problem Statement: Output 10 powerball tickets
+// Data In: Name
+// Data Out: tickets, message, prize
 // Credits: [Is your code based on an example in the book, in class, or something else?
 //            Reminder: you should never take code from the Internet or another person
 
