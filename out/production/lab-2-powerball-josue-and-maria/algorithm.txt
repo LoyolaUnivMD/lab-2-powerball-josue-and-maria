@@ -1,0 +1,8 @@
+1.print out description of the program
+2.ask for the player's name
+3.import random package
+4. setting int = 0
+5. while int < 10:
+  I. Output to the user a number from 0-99 6 times.
+6. Output to the user their whole ticket.
+7.Output to the user their name and estimated jackpot.
